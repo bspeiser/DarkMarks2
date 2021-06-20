@@ -1,0 +1,17 @@
+<%@ page import="com.darkoaksoftware.utils.dataset.*"%>
+<%@ page import="com.darkoaksoftware.darkmarks.*"%>
+<%@ page import="com.darkoaksoftware.utils.*"%>
+<%@ page import="java.util.*"%>
+<SCRIPT>
+<%
+User u = (User)session.getAttribute(User.USER);
+DataCursor mdp = new DataCursor();
+mdp.init("DAILY_PAPER.tdb",Constants.getDbPath(application));	
+mdp.selectEquals("USER_ID",""+u.getUserId());
+if (mdp.gotoFirst())do	{
+	%>window.open('<%=mpd.getProperty("")%>');
+	<%
+}while (mdp.gotoNext()());
+%>
+location.go(-1);
+</SCRIPT>

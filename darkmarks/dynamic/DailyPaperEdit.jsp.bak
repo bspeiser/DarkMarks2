@@ -1,0 +1,34 @@
+<%@ page import="com.darkoaksoftware.utils.dataset.*"%>
+<%@ page import="com.darkoaksoftware.darkmarks.*"%>
+<%@ page import="com.darkoaksoftware.utils.*"%>
+<%@ page import="java.util.*"%>
+<%
+User u = (User)session.getAttribute(User.USER);
+DataCursor mdp = new DataCursor();
+mdp.init("DAILY_PAPER.tdb",Constants.getDbPath(application));	
+mdp.selectEquals("USER_ID",""+u.getUserId());
+if(request.getMethod().equals("GET")){
+	StringBuffer sb = new StringBuffer();
+	if (mdp.gotoFirst())do	{
+		sb.append(mpd.getProperty("")+"\n");
+	}while (mdp.gotoNext());
+}else{
+	while(mdb.gotoFirst()){
+		mdb.delete();
+	}
+	String sa = StringUtils.splitA(request.getParameter("DAILY_PAPER"));
+	for(int ii=0;ii<sa.length){
+		mdb.insertRow();
+		mdb.setProperty("USER_ID",""+u.getUserId());
+		mdb.setProperty("SITE_LOC",sa[ii]);			
+	}	
+	mdb.commit();
+}
+<FORM METHOD=POST ACTION=<%=request.getRequestURI()%>>	
+	<TEXTAREA name="DAILY_PAPER" cols=60 rows=20>
+	<%=sb.toString()%>
+	</TEXTAREA><BR>
+	<INPUT TYPE="SUBMIT" Name="Update" VALUE="Update">
+</FORM>
+	
+	

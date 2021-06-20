@@ -1,0 +1,44 @@
+VER:1
+SYS_ROW_ID,CAT_ID,NAME,PARENT_ID
+SEQ:SYS_ROW_ID,SEQ:CAT_ID,'New Category','0'
+14,1,Software,33
+15,21,Entertainment,0
+16,22,Jokes,21
+17,23,Games,0
+18,24,Science,0
+22,25,Aircraft,35
+31,26,Hardware,23
+33,27,Mods,23
+34,28,Patches,23
+35,29,Comics,21
+36,30,Movies,21
+37,31,Chemistry,24
+38,32,News&Media,21
+39,33,Tools,0
+40,34,Net,33
+41,35,Hobbies,0
+42,36,Space,24
+43,37,Zines,23
+46,38,Shopping,0
+47,39,Product Review,38
+49,40,Development,0
+50,41,Java,40
+51,42,JSP,40
+52,43,JScript,40
+53,44,Nuclear,24
+54,45,Hacking,33
+63,46,Music,21
+70,47,HTML,40
+80,48,Cooking,35
+87,49,Sports,35
+105,50,Gag Sites,21
+123,51,Self Improvement,35
+124,52,Computing,24
+159,53,C/C++,40
+262,54,Metalworking,35
+263,55,Woodworking,35
+322,56,Alternative Medice,35
+785,57,Digital Video,35
+1001,58,Electronics,35
+1083,59,Bills Work,40
+1084,60,Database,40

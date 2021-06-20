@@ -1,0 +1,140 @@
+.YBANG{
+	color: #FF0000;
+}
+.TOOLLINK{
+	font-size:10px;
+	Color: #FFCC66; 
+}
+.TOOLTEXT{
+	font-size:10px;
+	border-style: solid; 
+	border-width: 0; 
+	padding-left: 0; 
+	padding-right: 0; 
+	padding-top: 0; 
+	padding-bottom: 0;
+}
+.TOOLLINE{
+	background:#FFCC66;	
+}
+.TOOLBOX{
+	font-size:12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	background:#222200;		
+}
+.HDRITEM{
+	font-size:12px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.FORMTITLE{
+	font-size:18px;
+	font-color: #000000;
+	font-weight: bold;
+	background:#543A02;
+}
+.CATMIDDLE{
+	font-size:10px;
+	font-color: #000000;
+	font-weight: bold;
+	background:#333333;
+}
+
+.CATTITLE{
+	font-size:14px;
+	font-color: #000000;
+	font-weight: bold;
+	background:#FFCC66;	
+}
+.L2{
+	background:#776633;	
+}
+.TITLELINE{
+	font-size:10px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration:underline;
+}
+.EDITLINK{
+	font-size:9px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.DATELINE{
+	font-size: 9px;
+	font-style: italic;
+	color: #cccccc;	
+}
+.COMLINK{
+	font-size: 9px;
+	color: #FFFFFF;	
+}
+.COMLINK0{
+	font-size: 9px;
+	color: #FFFFFF;	
+}
+.COMLINE{
+	font-size: 9px;
+	background-color:#666600;
+	font-style: italic;
+	color: #cccc66;	
+	
+}
+.DESCLINE{
+	font-size:9px;
+	color: #cccccc;
+
+}
+.ERRORTXT{
+	font-size:14px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.NOTES{
+	font-size:14px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.ROWODD{
+	background-color:#222200;
+}
+.ROWEVEN{
+	background-color:#000000;
+}
+A{
+	font-family: arial, helvetica, sans-serif;	
+	color: #FFFFFF;
+	text-decoration:none;
+	FONT-WEIGHT: bold;
+}
+A.TOPCAT{
+	font-size: 12px;
+}
+A.SUBCAT{
+	font-size: 11px;
+	color: #CCCCCC;	
+}
+A.EDITACTION{
+	font-size: 12px;
+	color: #FF0000;
+}
+BODY{ 
+	font-family: arial, helvetica, sans-serif;
+	font-size: 8px;
+	color: #FFFFFF;
+}
+A:HOVER{
+	Color: #FFCC66; 
+	text-decoration:underline;
+}
+SELECT{
+	font-size:10px;
+	border-style: solid; 
+	border-width: 1; 
+	padding-left: 1; 
+	padding-right: 1; 
+	padding-top: 0; 
+	padding-bottom: 0;
+}

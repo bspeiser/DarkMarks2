@@ -1,0 +1,15 @@
+VER:1
+SYS_ROW_ID,DAILY_PAPER_ID,USER_ID,SITE_LOC,DATE_CREATED
+SEQ:SYS_ROW_ID,SEQ:DAILY_PAPER_ID,'-1','',SYSDATE:MM/dd/yy hh:mm a
+277,5,2,http://www.bluesnews.com,08/15/02 05:42 PM
+278,6,2,http://www.pvponline.com,08/15/02 05:42 PM
+279,7,2,http://www.gamespot.com,08/15/02 05:42 PM
+280,8,2,http://www.reslifecomics.com,08/15/02 05:42 PM
+281,9,2,http://www.dilbert.com,08/15/02 05:42 PM
+282,10,2,http://www.reallifecomics.com,08/15/02 05:42 PM
+509,32,1,http://news.yahoo.com,01/31/03 08:15 AM
+510,33,1,http://cnn.com,01/31/03 08:15 AM
+511,34,1,http://www.wired.com,01/31/03 08:15 AM
+512,35,1,http://news.bbc.co.uk/,01/31/03 08:15 AM
+513,36,1,http://www.drudgereport.com/,01/31/03 08:15 AM
+514,37,1,http://slashdot.org/,01/31/03 08:15 AM

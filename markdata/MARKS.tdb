@@ -1,0 +1,490 @@
+VER:1
+SYS_ROW_ID,MARK_ID,TITLE,URL,DESCRIPTION,DATE_ADDED,CAT_ID,EXPIRY
+SEQ:SYS_ROW_ID,SEQ:MARK_ID,'New Bookmark',,,SYSDATE:MM/dd/yy hh:mm a,,'-1'
+10,1,Voodoo Extreme - 3D Gaming News Dot Com,http://www.voodooextreme.com/,Trash talking game news site,5/16/2002 12:05 PM,26,-1
+11,2,AnglGear Right-Angle Drivers,http://www.andantex.com/anglgear.html,various gears and drives.,5/15/2002 11:05 AM,54,-1
+19,5,Free Molecular Visualization Software,http://www.umass.edu/microbio/rasmol/othersof.htm,,05/30/02 12:13 PM,31,-1
+21,7,Welcome to ENECO,http://www.eneco-usa.com/default.htm,Developer of Thermal Diodes,05/30/02 12:15 PM,24,-1
+24,9,Aircraft Spruce - Aircraft Parts; Avionics; Pilot Supplies,http://www.aircraftspruce.com/main.html,,05/30/02 12:28 PM,25,-1
+25,10,O.S. 30 Wankel Rotary Engine,http://www.osengines.com/engines/osmg1400.html,Micro wankel R/C engine,05/30/02 12:32 PM,25,-1
+26,11,Aerodynamics and Airfoil Analysis on Your PC,http://www.hanleyinnovations.com/,,05/30/02 12:32 PM,25,-1
+27,12,Emerson,http://www.emerson-ept.com/EPTRoot/Public/prod/prodmain.htm,Gears; bearings and so forth sold here,05/30/02 12:33 PM,54,-1
+28,13,Java Airfoil,http://beadec1.ea.bs.dlr.de/Airfoils/,,05/30/02 12:33 PM,25,-1
+29,14,Common Sources of Chemicals,http://www.csun.edu/~vceed002/ref/equipment/acquisition/common.htm,,05/30/02 12:35 PM,31,-1
+30,15,Fluent Inc.,http://www.fluent.com/,CFD Flow Modeling Software and Services,05/30/02 12:35 PM,25,-1
+32,16,GODZ,http://dynamic2.gamespy.com/~godz/,Planet Shattering; Super-Powered Action for Unreal Tournament,05/30/02 03:40 PM,27,-1
+44,17,Epinions.com,http://www.epinions.com/,Consumer reviews; and pricing agent,06/03/02 12:19 PM,39,-1
+45,18,Get waypoints,http://www.gpspilot.com/DownloadDB.htm,Gps waypoints for Pilots,06/03/02 09:37 PM,25,-1
+48,19,Price Watch,http://www.pricewatch.com/,Street Price Search Engine,06/04/02 02:58 PM,38,-1
+55,20,ASTALAVISTA.BOX.SK,http://astalavista.box.sk/,,06/04/02 03:40 PM,45,-1
+56,21,Guardster,http://www.guardster.com/,Free anonymous; private web proxy & virtual private network.,06/04/02 04:31 PM,34,-1
+57,22,PvPonline.com ï¿½,http://www.pvponline.com/,Strip about a gaming magazine; lots of topical gaming related humor.,06/04/02 05:36 PM,29,-1
+58,23,Residence Life: Tastes great less filling,http://www.reslifecomics.com/,Remember College life? Strip chronicles two dormmates and their various escapades.,06/04/02 05:38 PM,29,-1
+60,25,Howstuffworks - What if I shot my TV?,http://www.howstuffworks.com/what-if-shoot-tv.htm,Video made of Marshal Brain shooting a CRT.,06/05/02 12:21 PM,21,-1
+61,26,404 Research Lab,http://www.404lab.com/,everything related to 404s.,06/05/02 01:45 PM,50,-1
+64,28,Harris Creative Group,http://www.voiceone.com/html/sillines.html,Jokes; One-Liners and Assorted Amusement from HCG,06/06/02 10:45 AM,22,-1
+65,29,DevEdge Online - Documentation - HTML,http://developer.netscape.com/docs/manuals/htmlguid/index.htm,,06/06/02 12:47 PM,47,-1
+66,30,CNET - HTML Tips and Tricks,http://builder.cnet.com/webbuilding/pages/Authoring/Htmltips/ss01b.html,,06/06/02 12:48 PM,47,-1
+67,31,HTML META; REL and REV Tags,http://vancouver-webpages.com/META/,,06/06/02 12:48 PM,47,-1
+68,32,Back to Basics: META Tags / WebDeveloper.com ï¿½,http://www.webdeveloper.com/html/html_metatags_part2.html,,06/06/02 12:48 PM,47,-1
+69,33,JavaScript Source:,http://javascript.internet.com/,Free JavaScripts; Tutorials; Example Code; Reference; Resources; And Help,06/06/02 12:50 PM,43,-1
+71,34,CNET JavaScript Window Tips,http://builder.cnet.com/webbuilding/pages/Programming/JSWinTips/ss13.html,,06/06/02 12:52 PM,43,-1
+72,35,Rocky Racoon's Home Page,http://ca.geocities.com/randy_bennett@nl.rogers.com/sitemap.htm,Javascript Examples,06/06/02 12:53 PM,43,-1
+74,37,Webmonkey: The Web Developer's Resource,http://hotwired.lycos.com/webmonkey/index.html,,06/06/02 12:55 PM,47,-1
+75,38,The Top Peaks to Climb in Phoenix; Arizona,http://members.aol.com/tomei/top.html,Hiking Trails in phoenix,06/06/02 12:56 PM,49,-1
+76,39,Olik's AD&D Pages / Main Page,http://www1.afmnet.net/~gnba/books/olik/index.html,An amazing D&D reference,06/06/02 01:06 PM,23,-1
+77,40,Red Alert II eXtreme | YR,http://www.red2.org/yr/,Yuris revenge reference,06/06/02 01:13 PM,23,-1
+78,41,VegSource -- Best of The Net Recipes!,http://www.vegsource.com/recipe/,,06/12/02 06:58 PM,48,-1
+79,42,All Recipes | Recipes,http://allrecipes.com/default.asp,,06/12/02 06:59 PM,48,-1
+81,43,The Intel(R) Philanthropic Peer-to-Peer Program,http://intel.com/cure/,More practical cycle donation site,06/13/02 09:02 AM,52,-1
+83,45,Top 30 Countdown : VH1.com,http://www.vh1.com/shows/series/top_30_countdown/,,06/17/02 10:14 AM,46,-1
+84,46,Billboard Radio,http://www.billboardradio.com/billboardradio/index.jsp,,06/17/02 10:52 AM,46,-1
+85,47,Free online virus scan,http://housecall.antivirus.com/housecall/start_corp.asp,,06/18/02 09:17 AM,34,-1
+88,49,Calpa Java Package Home Page,http://www.netcomuk.co.uk/~offshore/index.html,Java html renderer classes,06/18/02 04:28 PM,41,-1
+89,50,MU online,http://www.muonline.com/default.htm,korean 3D online RPG; from E3 flyer,06/18/02 05:05 PM,23,-1
+90,51,Mobile Commerce products for (wireless stuff),http://www.ccwap.com/,resource for mobile standards,06/18/02 05:06 PM,40,-1
+91,52,EtherLinx Communications - Next Generation Broadband Wireless,http://www.etherlinx.com/,yet another wireless 'last mile' solution; based on 802.11b,06/18/02 05:06 PM,52,-1
+92,53,PowerSki Jetboards,http://www.powerski.com/index.html,powered surfboard; I want one.,06/18/02 05:07 PM,49,-1
+93,54,CDR-Info; The Recording Authority,http://www.cdrinfo.com/,Everything you wanted to know about CD-Rs,06/18/02 05:08 PM,39,-1
+94,55,Ralph Merkle's Home Page,http://www.merkle.com/,nanotech guru's webpage,06/18/02 05:09 PM,24,-1
+95,56,kSoft page,http://www.graphmatica.com/,graphing calculator for windows,06/18/02 05:10 PM,33,-1
+96,57,GameSpot,http://gamespot.com/gamespot/filters/0ï¿½10850ï¿½6013548ï¿½00.html,One of the best game news sites around.  Login to 'Game spot complete' as tim@somewhocallme-tim.net; password: darkwood for %100 access.,06/18/02 05:13 PM,23,-1
+98,59,Dark Horizons - Latest from the Screw Factory,http://www.darkhorizons.com/news.htm,Great movie news site,06/19/02 12:47 PM,30,-1
+103,60,VillainSupply.com Home Lair,http://www.villainsupply.com/,Everything a villian needs,06/22/02 11:34 AM,50,-1
+104,61,NeverWinter Haven,http://www.neverwinterhaven.com/,NWN info board,06/23/02 12:36 PM,23,-1
+106,62,Hypercubed : Projects : Games : NWN,http://www.hypercubed.com/games/nwn/,NWN editing tutorials,06/24/02 12:24 PM,27,-1
+107,63,The Ethereal Network Analyzer,http://www.ethereal.com/,Packet sniffer extreme.,06/24/02 03:01 PM,34,-1
+109,65,Download.com,http://download.com.com/2001-20-0.html,,06/25/02 04:12 PM,1,-1
+120,67,Neverwinter Nights: BioWare's Community Site,http://nwn.bioware.com/,Official never winter nights site; forums have lots of good info,06/26/02 12:25 PM,23,-1
+121,68,SilverStream Help,http://help.silverstream.com/SilverHelp37/Docs/Help/framesets/GSwelcome.fs.html,Application Server Help,06/26/02 02:13 PM,41,-1
+122,69,The Relationship Coach Newsletter Archive,http://www.whatittakes.com/Archive/,,06/26/02 02:16 PM,51,-1
+125,70,Im not alright when your not,http://www.artdsm.com/recover/preface.html,Introspection into codependancy,06/26/02 02:22 PM,51,-1
+126,71,W3Schools Online Web Tutorials,http://www.w3schools.com/default.asp,Nice CSS section,06/26/02 02:23 PM,47,-1
+127,72,TopXML: XSLT reference,http://www.topxml.com/xsl/xsltref.asp,XSL/XML  XSLT reference,06/26/02 02:28 PM,40,-1
+128,73,Megaproxy,http://www.megaproxy.com/,Surf privately with Megaproxy Anonymous Web Surfing proxy,06/26/02 02:30 PM,34,-1
+129,74,Computer Reviews,http://www.computingreview.com/reviewscrx.aspx,Computer hardware review,06/26/02 02:32 PM,39,-1
+130,75,Eric's Pages Of Jokes,http://www.ewsonline.com/jokes/cjokes1.html,,06/26/02 02:33 PM,22,-1
+131,76,XSLT Reference,http://www.zvon.org/xxl/XSLTreference/Output/index.html,XSLT XSL XML reference,06/26/02 02:38 PM,40,-1
+132,77,Lots of Jokes - Humor and Jokes Network,http://www.lotsofjokes.com/,,06/26/02 02:42 PM,22,-1
+133,78,Pilot Shop Directory,http://dmoz.org/Shopping/Recreation/Aviation/Pilot_Shops/,,06/26/02 02:43 PM,38,-1
+134,79,Game Voice Share,http://www.gamevoice.com/Download/gamevoiceshare.asp?Page=148,Download Page,06/26/02 09:01 PM,23,-1
+135,80,Sharky Extreme,http://www.sharkyextreme.com/,Game hardware review,06/27/02 11:41 AM,26,-1
+136,81,Tom's Hardware Guide,http://www.tomshardware.com/,PC hardware review,06/27/02 11:41 AM,39,-1
+137,82,The Smoking Gun,http://www.thesmokinggun.com/Welcome.html,Strange documents from various agencies; check out Manson without makeup!,06/27/02 11:47 AM,32,-1
+138,83,NanotechNews.com; Daily News on Nanotechnology,http://www.nanotechnews.com/nano,All the nano-news you could want.,06/27/02 01:13 PM,24,-1
+139,84,Childfree By Choice - Suite101.com,http://www.suite101.com/welcome.cfm/6392,Childfree support page; links and articles,06/27/02 06:21 PM,51,-1
+140,85,Neverwinter Nights: Linux Dedicated Server,http://nwn.bioware.com/downloads/linuxserver.html,linux server in case we ever get insane about NWN,06/28/02 11:25 AM,23,-1
+141,86,Astronomy Picture of the Day,http://antwrp.gsfc.nasa.gov/apod/astropix.html,,06/28/02 12:38 PM,36,-1
+142,87,Romance 101; The internets best free romance resource,http://www.rom101.com/liststory.jsp?category=advice,Somewhat questionable romance advice,06/28/02 12:40 PM,51,-1
+143,88,Tricks 'n Flips,http://www.geocities.com/ox_pasture/Tricks.html,Bad ass martial arts kicks,06/28/02 12:50 PM,49,-1
+145,89,Annoyances.org,http://www.annoyances.org/,Die Windows BS features; DIE!,06/29/02 06:46 PM,45,-1
+148,90,IBM alphaWorks : RoboCode Rumble,http://apps.alphaworks.ibm.com/rumble/,Program your robot AI and battle with other programmers robots,07/01/02 02:08 PM,23,-1
+149,91,Usenet Physics FAQ,http://math.ucr.edu/home/baez/physics/index.html,What makes the univere tick?,07/01/02 02:38 PM,36,-1
+151,92,Comparison between PLASMA Model and Formed PMKs,http://www.prometheus2.net/,These guys might be onto something.. fusion wise.,07/01/02 04:45 PM,44,-1
+152,93,Amazon.com,http://www.amazon.com/exec/obidos/subst/home/redirect.html/ref=nh_gateway/103-4389860-0238261,Earth's Biggest Selection,07/02/02 10:19 AM,38,-1
+154,94,PayPal,https://www.paypal.com/,Is there any other e-check company? Cause these guys are really starting to suck.,07/02/02 10:34 AM,38,-1
+156,95,Blackstone Publishing,http://www.blackstonepublishing.com/bsp/nwn/,NWN Modules (This looks like a keeper to me),07/02/02 10:37 AM,27,-1
+158,96,C plus plus   FAQ LITE,http://www.parashift.com/c++-faq-lite/index.html,Nifty little C++ FAQ to help remember syntax,07/02/02 05:17 PM,53,-1
+160,97,Microsoft Cascading Style Sheets,http://msdn.microsoft.com/library/default.asp?url=/workshop/author/css/reference/attributes.asp,Microsoft CSS/DHTML Refrence,07/02/02 06:03 PM,47,-1
+163,98,Best Houseplants for Beginners,http://www.lowes.com/lkn?action=howTo&p=LawnGarden/BeginnerHouseplants,,07/03/02 11:13 AM,35,-1
+164,99,PLASMA online - Your hardware guide,http://www.plasma-online.de/index.html?content=http%3A//www.plasma-online.de/english/identify/serial/harddisk/hd_wd.html,Hardware ID and configruation library,07/03/02 03:11 PM,26,-1
+165,100,Cygwin/XFree86,http://cygwin.com/xfree/,Free windows X server!,07/08/02 12:13 AM,33,-1
+166,101,kenspace - the online art portfolio of ken wong,http://users.chariot.net.au/~pwong/,Really cool artist page,07/08/02 12:16 AM,35,-1
+167,102,Trek AeroSpace - Home Page,http://www.trekaero.com/index.html,Not quite the jetpacks we were promised; but close.,07/08/02 12:19 AM,24,-1
+169,103,Microjet Engineering,http://www.microjeteng.com/,some of the beefiest small turbines around.,07/08/02 04:36 PM,25,-1
+170,104,Gameshark.com,http://www.gameshark.com/codes.html,Yes. I suck. I have to cheat.,07/08/02 07:38 PM,27,-1
+171,105,DarkMarks2,http://64.105.140.125:8080/darkmarks/dynamic/home.jsp,Dark Marks 2; Opening a can of whoop ass on your favorite links. (tm),07/09/02 05:01 PM,34,-1
+173,106,Penny Arcade!,http://www.penny-arcade.com/,,07/10/02 11:29 AM,29,-1
+174,107,TheSpark.com - Internet Like Burning.,http://www.thespark.com/,Always good for a raw; un-PC laugh.,07/10/02 03:43 PM,22,-1
+175,108,The Onion | America's Finest News Source,http://theonion.com/,Fun time wasting,07/10/02 03:45 PM,22,-1
+176,109,eBay,http://www.ebay.com/,The World's Online Marketplace,07/11/02 12:45 PM,38,-1
+178,110,NT Tips and tricks,http://is-it-true.org/nt/utips/index.shtml,Tips for NT Workstation Users,07/12/02 10:32 AM,33,-1
+181,111,Wayne's XP Registry Tips,http://is-it-true.org/nt/xp/registry/index.shtml,Lots of neato registry hacks for XP,07/13/02 09:23 AM,45,-1
+182,112,** Welcome to LadysWorld **,http://www.ladysworld.net/,Rene website,07/13/02 01:06 PM,21,-1
+183,113,Welcome To Bartlesville Online * Live Local Weatherï¿½ Local Adsï¿½ Webcamsï¿½ News...,http://www.bartnet.net/~jmt/,Jeffs Web site,07/13/02 01:06 PM,21,-1
+184,114,AIRLINERS.NET - We Serve Both HVN And HEL,http://www.airliners.net/,Airline pictures,07/13/02 01:08 PM,25,-1
+185,115,FARK: Drew Curtis' FARK.com,http://www.fark.com/,Wierd News,07/13/02 01:14 PM,21,-1
+186,116,Windows Tips and Tricks by Tiplord,http://www.tiplord.com/,Windows tips and Tricks,07/13/02 01:28 PM,45,-1
+187,117,Computer Stupidities,http://www.rinkworks.com/stupid/,,07/13/02 01:29 PM,22,-1
+188,118,House Plant Care and Cultivation Guides,http://www.thegardenhelper.com/houseplants.html,,07/14/02 07:56 AM,35,-1
+189,119,PgAccess,http://ns.flex.ro/pgaccess/,Post GreSQL ,07/14/02 08:56 PM,60,-1
+190,120,Real Life - The Online Comic ï¿½2002 Greg Dean,http://www.reallifecomics.com/,Another webcomic that is consistently funny,07/15/02 06:01 PM,29,-1
+192,121,Fuel Burn Calculator,http://www.somewhocallme-tim.net:8080/Aviation/dynamic/BurnFrm.jsp,Creates a fuel burn/time table for diversion calcultations,07/16/02 12:38 PM,25,-1
+193,122,Candle Making Supplies,http://www.spiritcrafts.net/wicac.html,Make your own candles,07/16/02 04:24 PM,35,-1
+194,123,Mac Hall (Mondays and Fridays),http://www.machall.com/index.php,Sometimes funnyï¿½ sometimes notï¿½ sorta grows on ya though.,07/17/02 01:44 AM,29,-1
+195,124,Bank of America ,http://www.bankofamerica.com/,,07/17/02 08:50 AM,38,-1
+197,125,Ad-Aware,http://www.lavasoftusa.com/,Nuke spyware off your system,07/17/02 10:26 AM,1,-1
+199,126,OpenCyc.org,http://www.opencyc.org/,Cycï¿½ tell me about anthrax. "The music groupï¿½ or the bacteria?",07/17/02 12:49 PM,52,-1
+200,127,DVDOvernight - America's DVD Rental Store,http://www.dvdovernight.com/dvd/home.html,Rent DVDs cheap,07/17/02 01:51 PM,30,-1
+202,128,Dot-Com Builder: Making Tomcat Work with Apache,http://dcb.sun.com/practices/howtos/tomcat_apache.jsp,Connecting tomcat and apache. assuming you can find the mod_webapp module.,07/17/02 02:14 PM,41,-1
+203,129,radioKAOS - killer internet radio,http://www.radiokaos.com/,random picks and by request,07/18/02 12:24 AM,46,-1
+206,131,Auction Calendar - Ashman Company Auctioneers Appraisers ,http://www.ashmancompany.com/auctions.asp,auction site for metalworking equipment in california,07/22/02 09:38 AM,38,-1
+207,132,Welcome to the Official English Website of Production I.G!,http://www.production-ig.com/GhostTV_Dev.html,Ghost in the Shell TV series in production,07/23/02 09:51 AM,21,-1
+209,133,Frontier Bulk Herbs,http://www.yahwehsaliveandwell.com/,Organic Foodï¿½ Earth Friendly Cleaning Suppliesï¿½ Vegetarian Dietï¿½ Family Healthï¿½ Live Food,07/24/02 10:51 AM,38,-1
+217,134,Skyaid Org.,http://www.skyaid.org/index.html,random links about aircraft prototypes and ideas,07/26/02 04:08 PM,25,-1
+219,135,Am I Hot - Got Booty?,http://www.amihot.com/,More comercialized now but hey.,07/27/02 02:42 PM,21,-1
+220,136,Exoskeletons For Human Performance Augmentation,http://www.arpa.gov/dso/thrust/matdev/ehpa.htm,Main website for military exoskeletons,07/27/02 02:56 PM,24,-1
+221,137,Robonaut,http://vesuvius.jsc.nasa.gov/er_er/html/robonaut/robonaut.html,Humanoid robot for EVA work.,07/28/02 11:53 AM,36,-1
+223,138,Plustech Walking technology,http://www.plustech.fi/Walking1.html,6 legged walking lumberjack 'mech',07/29/02 10:03 AM,24,-1
+229,139,Clueless Mailers: The Latest Ugly Trend in Spamming,http://www.cluelessmailers.org/spamdemic/index.html,Draws lines of 'infection' between known email spam companies.,07/30/02 09:43 AM,34,-1
+231,140,Neverwinter Nights: Modules,http://nwn.bioware.com/downloads/modules.html,500+ user created modules for NWN,07/31/02 11:09 AM,27,-1
+232,141,Uplink,http://www.introversion.co.uk/uplink/index.html,Be a hacker in the futureï¿½ slick interfaceï¿½ quite fun.,07/31/02 12:41 PM,23,-1
+234,142,DoveBid - Used Equipment Auctions and Business Valuation Services,http://www.dovebid.com/default.asp,World wide auction houseï¿½ tons of stuff,08/01/02 07:18 PM,38,-1
+236,143,Apache Tomcat,http://jakarta.apache.org/builds/jakarta-tomcat-4.0/release/,Apaches tomcat download page,08/06/02 12:01 PM,40,-1
+238,144,ATC Exchange,http://63.171.187.75/exchange/logon.asp,Exchange server for AutoTradeCenter,08/07/02 11:13 AM,40,-1
+248,146,SquirrelMail - Webmail for Nuts!,http://squirrelmail.org/,Squirrel Mail Homepage,08/09/02 12:01 PM,1,-1
+249,147,Hacker Network - Where egos grow large and ranting is a skill,http://www.hackernetwork.com/images/hfg/,Take a peek at this galleryï¿½ trust me.,08/09/02 12:28 PM,21,-1
+250,148,Welcome to Beta Place,https://www.betaplace.com/,Microsoft Beta website (for tracking my password info),08/09/02 03:24 PM,1,-1
+254,150,The Random Frog Childrenï¿½ a very random comic in many parts.,http://www.frogchildren.com/,another comic that caught my eye.,08/09/02 05:17 PM,29,-1
+257,151,Webshots,http://webshots.com/homepage.html,Welcome to Webshots - Where The World Shares Photos (b_speiser/12345678),08/12/02 08:38 AM,34,-1
+259,152,Dungeon Keeper 2 Patches,http://gamespot.com/gamespot/filters/products/downloads/0ï¿½11095ï¿½176198ï¿½00.html,I actaully shelled out the cash for a legal copyï¿½ and it doesnt friggin work,08/13/02 07:38 AM,28,-1
+260,153,Java Guru: Tomcat "manager' commands,http://www.jguru.com/faq/view.jsp?EID=455587,Info on how to reload webapps on the fly using the manager feature of tomcat 4.0,08/13/02 12:48 PM,41,-1
+261,154,Gingery Series: Metalworking Shop from Scrap,http://www.lindsaybks.com/dgjp/djgbk/series/index.html,Website to buy the famous Gingery books,08/13/02 06:48 PM,54,-1
+264,155,Welcome to Dan's Workshop - a photo repository of advanced home shop projects -,http://www.dansworkshop.com/index.shtml,Gallery of cool metalshop stuff built in the home,08/13/02 06:55 PM,54,-1
+265,156,Star Monkey : Home page.,http://www.smallrockets.com/pc/starmonkey/index.htm,Amazingly fun  'old-school' vertical scrool shooterï¿½ top notch graphics,08/14/02 01:38 AM,23,-1
+268,158,Jeffrey Zeldman Presents: The Ad Graveyard,http://www.zeldman.com/adgraveyard/,Rejected (and often humorous) print and web ads.,08/14/02 01:10 PM,32,-1
+270,159,Newgrounds.com - The Problems of the Futureï¿½ Today!,http://www.newgrounds.com/,flash animations and other random stuff,08/14/02 01:48 PM,21,-1
+276,160,GameSpot: PlayStation2 Media Index: War of the Monsters,http://gamespot.com/gamespot/filters/products/media/0ï¿½11100ï¿½561529ï¿½00.html,Looks alot better now than at E3. Due early 2003.,08/15/02 11:33 AM,23,-1
+284,161,Magellan Data Transmission Protocol,http://celia.mehaffey.com/allory/mag-proto.htm,Time to write my own GPS software.,08/16/02 02:02 PM,45,-1
+287,163,The Daily Bull,http://www.thedailybull.ca/,An onionesque satire zine,08/19/02 11:22 AM,32,-1
+289,164,Clone Cd ,http://www.clonecd.net/,A nice cd copy site,08/20/02 10:02 AM,1,-1
+290,165,MyQwest,https://kai04.qwest.com/Qwest.Ece.Web.Authentication.UI/CustomerLogin.aspx?action=AcctRqd&ReturnURL=https%3A%2F%2Fecom.qwest.com%2Febus%2Fcgi-bin%2Fgx.cgi%2FAppLogic%2BEcom.BillView%3Fid%3DbillList%26type%3Dresidential,Online account management,08/20/02 03:03 PM,34,-1
+292,166,Nutrition Studio : Registration Info,http://www.nutritionstudio.com/registration.htm,Cooking school,08/21/02 08:51 AM,48,-1
+293,167,E3 Expo 2003,http://www.e3expo.com/,Official site for E3. Look for pre-reg info in the mail in the next few months.,08/21/02 12:18 PM,23,-1
+294,168,80's Retro Radio,http://home.austin.rr.com/liveradio/80s/,Website of great 80s L365 station,08/21/02 07:00 PM,46,-1
+295,169,Oracle Corporation,http://www.oracle.com/,bspeiser/12345678,08/22/02 02:52 PM,60,-1
+296,170,The Straight Dope ,http://www.straightdope.com/,Answers those questions everyone asks.,08/22/02 07:00 PM,24,-1
+298,172,Just Plane Fun,http://www.justplanefun.net/main.php?sortby=alpha&category=1%3A120 Scale,Model aircraft,08/24/02 03:40 PM,25,-1
+299,173,Asheville DieCast,http://www.ashevillediecast.com/products/SPC-47511.html,Die-cast Collectibles: Carsï¿½ Banksï¿½ Signsï¿½ Toysï¿½ Miniatures,08/25/02 08:37 AM,25,-1
+300,174,Maricopa Community Colleges,https://student1.dist.maricopa.edu/mccdhome.htm,Time to go back to school,08/26/02 08:08 AM,51,-1
+301,175,Spacebattles.com,http://www.spacebattles.com/movies.php,Home made space blasting??,08/26/02 12:03 PM,30,-1
+302,176,Therapeutic Massage Overview,http://www.pc.maricopa.edu/departments/help/Massage/Overview.html,,08/26/02 12:36 PM,51,-1
+303,177,Mondo Mini Shows Happy Tree Friends Review Page,http://review.mondominishows.com/happytree.html#,Flash animations of cute cuddly animals... and their subsequent bloody misadventures.,08/26/02 03:11 PM,21,-1
+304,178,GameSpot: PC Media Index: Command & Conquer: Generals,http://gamespot.com/gamespot/filters/products/media/0ï¿½11100ï¿½556767ï¿½00.html,Run movie 13ï¿½ america launches a daisy  cutter attack on the GLA.,08/27/02 12:44 AM,23,-1
+307,179,phong [ mad wrath to sooth your aching eyeballs ],http://www.phong.com/,a site withï¿½ uhï¿½ flashï¿½ stuffï¿½ but mesmorizing flash stuffï¿½ check it out.,08/28/02 10:53 AM,21,-1
+309,180,Real World Solutions ,http://www.rotaryaviation.com/,Supplier of parts and information regarding rx-7 motor adaptation to aviation use.,08/28/02 11:44 AM,25,-1
+312,181,The Animatrix,http://whatisthematrix.warnerbros.com/rl_cmp/animatrix_trailer_640.html,Preview of the direct to video collection of 9 animated stories from the Matrix universe.,08/30/02 10:19 AM,30,-1
+314,182,Computer Control of a Stepper Motor,http://neil.fraser.name/hardware/stepper/cpu.html,simple control circuit for stepper motors,09/03/02 12:13 AM,58,-1
+315,183,Boondog Automation,http://www.boondog.com/,all sorts of great info on PC <-> gadget interfacing,09/03/02 12:32 AM,35,-1
+317,184,Meteor Crater: ,http://www.flagstaff.az.us/meteor/,The Barringer crater,09/03/02 01:56 PM,21,-1
+318,185,Sedona Area,http://www.hitthetrail.com/destinations/sedona.htm,trails and fun stuff to do in Sedona,09/03/02 02:00 PM,21,-1
+319,186,Oil Profiles from AromaWeb,http://www.aromaweb.com/essentialoils/default.asp,,09/03/02 03:01 PM,56,-1
+321,187,Holistic-online.com,http://www.holistic-online.com/,Alternative Medicineï¿½ Complementary Medicineï¿½ Integrative Medicineï¿½ Mind-Body Medicineï¿½ Herbsï¿½ Nutritionï¿½ Vitaminsï¿½ Therapiesï¿½ Practitioners,09/05/02 10:34 AM,56,-1
+329,188,Red Alert 2 Acid - Download Editors,http://acid.federationstudios.net/downloads/editors.shtml,editors of all sorts for RA2ï¿½ including unit/voxel editors.,09/11/02 02:19 PM,27,-1
+330,189,The Art of Craig Mullens (goodbrush.com),http://www.goodbrush.com/mainpage/index2.htm,Art of Craig Mullensï¿½ matte painter/ concept artist.,09/12/02 02:06 PM,21,-1
+331,190,Oshkos,http://www.oshkoshpilotshop.com/,Pilot Supplies At a Discounted Price,09/13/02 12:36 PM,38,-1
+332,191,Airsource One,http://www.airsource1.com/,Aviation Pilot Supplies: Pilot Supplies ,09/13/02 12:37 PM,38,-1
+333,192,Tally-ho,http://www.airlineuniforms.net/,Pilot Uniforms Pilot Shirts & Airline Model Airplanes,09/13/02 12:38 PM,38,-1
+340,194,WinXP Service description,http://www.blackviper.com/WinXP/strangeservice.htm,Strange Services Information,09/16/02 03:24 PM,1,-1
+341,195,The Skeptic's Dictionary Guide ,http://skepdic.com,Bullshit exposed.,09/17/02 10:17 AM,21,-1
+342,196,TM Sheet Metal Forming Technologies,http://www.tinmantech.com/,products and tips for welding,09/17/02 01:27 PM,54,-1
+344,197,Global Security,http://www.globalsecurity.org/wmd/world/index.html,Guide to the worlds weapons of mass destruction,09/18/02 09:44 AM,44,-1
+348,198,DVD Synth,http://www.roundelay.net/dvdsynth/prerelease.html,low-level driver that can bypass region codes for DVDsï¿½ among other things.,09/21/02 11:43 AM,45,-1
+349,199,GoVoJo.com - Rent video games online,http://www.govojo.com/index.jsp;jsessionid=aKbxlGVwc-l5,like netflix for video gamesï¿½ ps2 and xbox.,09/24/02 01:30 PM,23,-1
+350,200,techbargains.com,http://techbargains.com/,Cheapest computer deal best digital cameras wholesale computer parts,09/25/02 09:24 AM,38,-1
+351,201,InsultMonger.com,http://www.insultmonger.com/,Insultsï¿½ Insults & More Insults!,09/25/02 09:56 AM,22,-1
+352,202,A Guide to Building Secure Web Applications,http://www.owasp.org/guide/v11/index.html,,09/25/02 11:22 AM,40,-1
+353,203,Java 1.4 API,http://java.sun.com/j2se/1.4/docs/api/index.html,,09/25/02 12:20 PM,41,-1
+361,204,Strongbad Answers email,http://www.homestarrunner.com/sbemail.html,Quirkyï¿½ but kinna funny.,09/30/02 01:12 PM,29,-1
+363,205,DBL Distributingï¿½ Inc.,http://www.dbldistributing.com/cgi-bin/DBLDistributing.storefront/3d9b229500a9879e2741c0a8011e06b4/Catalog,Wicked Cheap Audio,10/02/02 09:47 AM,38,-1
+365,206,SourceForge.net: Project Info - OpenLF,https://sourceforge.net/projects/openlf/,Light field mapping code from intel,10/02/02 11:35 AM,40,-1
+368,207,Luminaire,http://www.maxshade.com/luminaire.html,Lightmap generator for 3DSMax 2ï¿½ 3ï¿½4,10/03/02 04:59 PM,40,-1
+369,208,YogaJournal.Com: Yoga under the Microscope,http://www.yogajournal.com/health/114.cfm,,10/06/02 03:03 PM,56,-1
+370,209,Online Pharmacy,http://checkout.medicalwebservices.com/index.cfm?action=order_form&SiteCode=Ezpharm&CFID=225900&CFTOKEN=88556462,,10/06/02 03:04 PM,56,-1
+372,210,USS Clueless - How spreading actually works,http://denbeste.nu/cd_log_entries/2002/04/Howspreadingactuallyworks.shtml,How CDMA cell phones workï¿½ and other cell phone articles.,10/07/02 10:55 AM,24,-1
+374,211,MyMobileStuff,http://www.mymobilestuff.com/palm/,In case I buy a sidekickï¿½ I'll need this PDA friendly portal.,10/07/02 03:29 PM,34,-1
+375,212,Massage Magazine,http://www.massagemag.com/home.htm,A Resource for Practitioners of Massage and Other Touch Therapies,10/10/02 07:40 AM,56,-1
+377,213,LaStone Therapy,http://www.lastonetherapy.com/,Basaltic stone treatments,10/11/02 08:38 AM,56,-1
+378,214,Timbotï¿½ the Project Timber Robot,http://www.cse.ogi.edu/~mpj/timbot/index.html,Timbot? I had to add the link.,10/11/02 11:04 AM,52,-1
+379,215,Human Engineering Laboratory - Main,http://www.me.berkeley.edu/hel/index.htm,UC Berkeley lab focusing on exoskeletons,10/11/02 11:52 AM,24,-1
+380,216,Mark Fiore's Animated Political Cartoons!,http://markfiore.com/,,10/11/02 01:08 PM,29,-1
+381,217,NEMES Home Page,http://newenglandmodelengineeringsociety.org/,Links of metalworking resources and info,10/11/02 01:58 PM,54,-1
+382,218,melt metalï¿½ home metalcastingï¿½ backyard metalcasting,http://www.backyardmetalcasting.com/index.html,Site for more DIY foundry tips,10/11/02 02:17 PM,54,-1
+383,219,Yahoo! Mobile - SMS,http://sms.mobile.yahoo.com/sms/sendsms.php,Send messages to Tim's sidekick using this gateway. (use the full phone number),10/16/02 12:30 PM,33,-1
+384,220,Usable Web,http://usableweb.com/,Articles on web usability,10/17/02 07:23 AM,47,-1
+385,221,XML Path Language (XPath),http://www.w3.org/TR/xpath,X-PATH Rules,10/18/02 10:40 AM,40,-1
+386,222,Voice Browser Call Control: CCXML Version 1.0,http://www.w3.org/TR/ccxml/,,10/18/02 10:41 AM,40,-1
+390,224,Cascading Style Sheetsï¿½ Level 2,http://www.w3.org/TR/REC-CSS2/,The w3c spec,10/24/02 01:38 PM,47,-1
+391,225,MIDI Ringtones : Ringtones,http://www.midiringtones.com/,In case I ever want to plop down $2 for a ring toneï¿½ there are alot here and they support the sidekick.,10/24/02 06:23 PM,38,-1
+392,226,Rhapsody - Digital Music Service,http://www.listen.com/,Soonï¿½ at 99 cents a songï¿½ they'll burn a custom CD for you.,10/24/02 08:55 PM,46,-1
+397,227,CHUD - Cinematic Happenings Under Development,http://www.chud.com/news.php3,One of the premiere internet movie news sites.,10/29/02 11:35 AM,30,-1
+400,228,Java Mail API,http://developer.java.sun.com/developer/onlineTraining/JavaMail/contents.html#JavaMailIntro,Fundamentals of the JavaMail APIï¿½ Short Course Contents,11/01/02 02:31 PM,41,-1
+401,229,Doom 3 alpha help guide,http://www.ut2003online.com/getting_started.html,Helpful hints for starting and tweaking the alpha,11/03/02 09:29 PM,28,-1
+402,230,Sun Technology On-line training,http://developer.java.sun.com/developer/onlineTraining/,,11/04/02 09:50 AM,41,-1
+406,231,List of Back Muscles,http://www.meddean.luc.edu/lumen/MedEd/GrossAnatomy/dissector/muscles/mus_back.html,Anatomy,11/06/02 11:43 AM,56,-1
+409,233,Epicurean.com,http://www.epicurean.com/index.html,Great source for recipiesï¿½ each rated by the users.,11/07/02 10:28 AM,48,-1
+410,234,Gunaction.com,http://www.gunaction.com/,Guns and riflesï¿½ images and stats,11/07/02 01:36 PM,35,-1
+416,235,Drinking games,http://drinks.glowport.com/gj012.html,Vebal games for parties.,11/11/02 09:26 AM,21,-1
+418,236,military vehicle sales,http://www.fantastic-days.com/fdsales.htm,I don't think this one is fake.,11/11/02 01:21 PM,38,-1
+420,237,Defeat Telemarketers for FREE,http://home.attbi.com/~dakine/defeat.htm,Record this sites Doo-Dah-Dee  .wav to your answering machineï¿½ auto-dialers think the number is disconnected.,11/15/02 03:38 PM,45,-1
+422,238,JProbe Documentation,http://www.sitraka.com/software/support/jprobe/tsjprobedoc.html,Detects java memory leaks.,11/18/02 10:07 AM,41,-1
+423,239,I rule.,http://maddox.xmission.com/,Funny 'opinion' siteï¿½ using the term loosely.,11/19/02 01:43 AM,21,-1
+425,240,Covad firmware download page,http://www.zyxel.com/covad/,Firmware for Tim's Zyxel router,11/20/02 03:34 PM,34,-1
+427,241,Sun J2EE Tutorials,http://java.sun.com/j2ee/1.4/docs/tutorial/doc/J2EEAddendumTOC.html,Java 2 Enterprise Editionï¿½ JSPï¿½ Custom Tagsï¿½ EJBï¿½ XMLï¿½ Servlets,11/21/02 07:18 AM,41,-1
+432,242,XCC Home Page by Olaf van der Spek,http://xccu.sourceforge.net/,Tons of C&C editing info and utilitiesï¿½ including a player filter.,11/25/02 08:49 AM,27,-1
+434,243,Sun ONE Portal Server,http://docs.sun.com/source/816-6428-10/,API Documentation,11/26/02 08:33 AM,41,-1
+435,244,Women in Aviation Store,http://www.wiai.org/merchant2/merchant.mv?Screen=PROD&Product_Code=76,,11/27/02 09:51 AM,38,-1
+436,245,Time Zone Converter - The Time Zone - What time is it in ___?,http://www.timezoneconverter.com/,Find out what time it is in other parts of the worldï¿½ makes it easier to schedule those international conference calls,11/27/02 11:20 AM,33,-1
+438,246,Overview (Java 2 Platform EE v1.4),http://java.sun.com/j2ee/1.4/docs/api/overview-summary.html,JavaDoc J2EE API Extensions,12/02/02 02:09 PM,41,-1
+439,247,WebRSH,http://www.tundrawolf.com/cgi-bin/webrsh.cgi,Remote Admin Telnet web client for darkwood,12/03/02 06:11 AM,34,-1
+441,248,United States Advanced Ceramics Association - USACA,http://www.advancedceramics.org/index.htm,Links to advanced ceramics applications,12/03/02 12:32 PM,31,-1
+442,249,The Refurb Depot,https://www.refurbdepot.com/,Cheap Refurbished computer and electronics,12/04/02 10:37 AM,38,-1
+443,250,Coupons from FatWallet.Com save you money!,http://fatwallet.com/,Site that lists special and hard to find deals all over the web and retail.,12/04/02 11:57 AM,38,-1
+445,251,Earth As Art,http://astroboy.gsfc.nasa.gov/earthasart/,Cool Satelite Pics,12/05/02 12:38 PM,21,-1
+447,252,Genesis World Energy,http://www.genesisworldenergy.org/genesis_world_energy.htm,World changing power source or acid flashback induced hoaxï¿½ you decide.,12/10/02 09:41 AM,24,-1
+451,254,Froogle,http://froogle.google.com/,Googles shopping guide betaï¿½ the new price watch?,12/13/02 11:37 AM,38,-1
+452,255,CNC Universe: Featuring C&C Generals,http://www.cncuniverse.com/index.php,All the newz that is C&C.,12/13/02 12:41 PM,23,-1
+457,256,Building my Gingery style lathe,http://www.backyardmetalcasting.com/lathe1.html,Site with pictures and notes regarding the lathe I'm going to build.,12/19/02 02:03 PM,54,-1
+458,257,Gearhead Metal Working,http://ourworld.compuserve.com/homepages/williamk/homepage.htm,More tips and tricks about casting and building the gingery lathe.,12/19/02 02:18 PM,54,-1
+461,258,Davis | DriveRight - CarChip,http://www.davisnet.com/drive/products/carchip.asp,Plug gizmo into just about any modern car to aid in diagnosing problems. Only $140.,12/23/02 03:23 PM,35,-1
+464,259,Personal Jet Pack,http://www.technologie-entwicklung.de/Gasturbines/Andreas__Project/hauptteil_andreas__project.html,The WASP concept of a 'jet backpack' is reborn in this german's basement.,12/25/02 12:08 PM,24,-1
+465,260,VegWeb,http://www.vegweb.com/,Vegitarian Recipes,12/26/02 01:36 PM,48,-1
+469,261,K-Bond - Oil Bonded Casting Sand,http://www.ray-vin.com/casting/k-bond.shtml,Recipe for casting sand.,12/26/02 03:14 PM,54,-1
+471,262,Advanced Topics in Aerodynamicsï¿½ Computational Fluid Dynamicsï¿½ Aeronauticsï¿½ Aviationï¿½ Propulsion Systemsï¿½ Design,http://aerodyn.org/,Overviews and references to aerodynamics,12/29/02 01:15 AM,25,-1
+472,263,C&C Generals stat page,http://www.cncuniverse.com/generals/statsintro.php,Shiur Kahn needs to get to workï¿½ all unit and building stats available for tactical analysis.,12/30/02 12:29 PM,23,-1
+475,265,Pepys Diary   (That's "peeps"),http://www.pepysdiary.com/,Diary from 1660 serialized as a web-log with full links and liner notes.,01/03/03 10:02 AM,21,-1
+482,268,Microsoft DHTML Methods,http://msdn.microsoft.com/library/default.asp?url=/workshop/author/dhtml/reference/methods.asp?frame=true,JScript Reference,01/10/03 01:43 PM,43,-1
+491,269,VPN Labs - Free VPN Software and Virtual Private Network News,http://www.vpnlabs.com/,VPN infoï¿½ might let us play generals beta with a lan hack.,01/14/03 10:52 AM,34,-1
+492,270,Gamefly.com,http://www.gamefly.com/,Another online video game rental place.,01/15/03 01:07 PM,23,-1
+497,271,5 Bears - Home,http://www.5bears.com/index.htm,Yet another DIY turbine webpage,01/20/03 04:12 PM,25,-1
+516,272,Instant CNN news creation at FakedNews dot com,http://www.fakednews.com/,Create your own fake news report that looks like news from your favorite site.,02/03/03 06:34 PM,50,-1
+517,273,Measuring Element Dimension and Location,http://msdn.microsoft.com/library/default.asp?url=/workshop/author/om/measuring.asp,DHTML size and position description,02/04/03 09:29 AM,47,-1
+519,274,GRID.ORG ,http://www.grid.org/home.htm,Donate computer cycles to cure small pox,02/05/03 06:39 AM,1,-1
+520,275,THE ANIMATRIX,http://www.intothematrix.com/,Matrix inspired animationsï¿½ direct from WB.,02/05/03 09:25 AM,30,-1
+522,276,HawkStudios v 2.5,http://www.hawkstudios.net/index.php,Cool artist pageï¿½ check out the spider that crawls around on the menu bar. You can drag him around too.,02/06/03 01:38 PM,21,-1
+524,277,Cook2Score Blog,http://www.cook2score.com/blog/,John set up a weblog gizmo on darkwood. Needs a lot more content on either cooking or scoringï¿½ or both.,02/11/03 04:35 PM,48,-1
+529,278,Retrologicï¿½Systems : RetroGuard,http://www.retrologic.com/retroguard-main.html,Free java obfuscator,02/13/03 06:58 AM,41,-1
+548,279,Generalsreplays,http://tfskiller.no-ip.com/,Upload/download site for Generals replays.,02/19/03 12:52 PM,23,-1
+556,280,Anachronox: The Movie on Machinima.com,http://www.machinima.com/displayarticle2.php?article=322,Cutscenes from the game anachronox serialized into mpegs.,02/22/03 01:25 PM,30,-1
+560,281,McGlen.com,http://www.mcglen.com/mcglenweb/home.asp?none=,Cheap CPU prices,02/25/03 08:16 AM,38,-1
+597,282,Sun Microsystems - Download Center,http://wwws.sun.com/software/download/,Requires registration: bspeiser2/123456,03/06/03 06:33 AM,40,-1
+603,283,Wireless Gaming Review -- The Best Site for the Mobile Gamer,http://www.wirelessgamingreview.com/,News and reviews of games for phonesï¿½ palmsï¿½ etc.,03/11/03 12:48 PM,23,-1
+607,284,Sun[tm] ONE Studio 4 update 1,http://wwws.sun.com/software/sundev/jde/index.html,Main product page for Sun's Java IDEï¿½ a J2ME edition is free for download.,03/13/03 06:22 PM,41,-1
+612,285,Unified Modeling Language (UML) Dictionary,http://www.softdocwiz.com/UML.htm,Cheat Sheet of UML terminology,03/17/03 01:52 PM,40,-1
+613,286,Foundry 101 - Metal Casting,http://www.host33.com/casting/index.html,Simple but very helpful how-to guide for home casting.,03/17/03 11:32 PM,54,-1
+614,287,Core J2EE(TM) Patterns: Patterns index page,http://java.sun.com/blueprints/corej2eepatterns/Patterns/index.html,Design pPatterns in Java,03/18/03 09:28 AM,41,-1
+644,288,Caucho Technology,http://www.caucho.com/,Resin open source web server,03/28/03 01:24 PM,40,-1
+648,289,Britney Spears guide to Semiconductor Physics: semiconductor physicsï¿½ Edge Emitting Lasers and VCSELs,http://www.britneyspears.ac/lasers.htm,Very informative websiteï¿½ that just happens to have Britney Spears pinup art scattered through it.,03/31/03 10:44 AM,24,-1
+649,290,The Internet Classics Archive | The Art of War by Sun Tzu,http://classics.mit.edu/Tzu/artwar.html,How to kick ass and take names.,04/02/03 01:24 AM,51,-1
+663,291,SPACE.com,http://www.space.com/spaceviews/,Space Views Image Gallery,04/08/03 09:21 AM,36,-1
+665,292,SSDB: Sargent Strykers Web Log,http://sgtstryker.com/,An informative blog created by US military guysï¿½ gals and parents. Comment threads are funny too.,04/08/03 02:27 PM,32,-1
+666,293,CFD Online,http://www.cfd-online.com/,Well rounded site focusing on Computational Fluid Dynamics,04/08/03 05:22 PM,25,-1
+676,294,TFN FanFilms | Short Films,http://theforce.net/theater/shortfilms/index.shtml,Includes space battles and &quot;Troopz&quot;,04/13/03 08:08 AM,30,-1
+680,295,AboveTopSecret.com - The Official Government Conspiracy Website,http://www.abovetopsecret.com/,Not quite a &quot;tin foil hat' kinda websiteï¿½ but almost. Has real data on real planesï¿½ agenciesï¿½ etc.... Uh no sorry. Tinfoil is manditory. Zeta Reticuli could be listening.,04/15/03 12:45 PM,24,-1
+682,296,Regular Expression Library ,http://regexlib.com/,Canned Regex patterns for common validation,04/16/03 03:56 PM,40,-1
+683,297,Tom's Hardware Guide - Upgrading the Hard Drive,http://www4.tomshardware.com/mobile/20001110/mp3-13.html,my nomad HD no longer bootsï¿½ Tom tells ya how to format another (even bigger) drive for a Nomad.,04/17/03 01:52 PM,45,-1
+684,298,nomadness.net,http://www.nomadness.net/index.php,3rd party website for everything related to the Nomad Jukebox.,04/17/03 01:56 PM,45,-1
+687,299,Synapse | Get your MP3 on...,http://www.synapseai.com/,Organizes play list based on a prediction of what the user likes.,04/21/03 08:28 AM,1,-1
+689,300,Task List Programs,http://www.answersthatwork.com/Tasklist_pages/tasklist.htm,What is that mystery program running in your task list?,04/21/03 10:16 PM,1,-1
+690,301,UML Tutorial,http://uml.tutorials.trireme.com/,Unified Modeling Language Tutorial,04/22/03 02:29 PM,40,-1
+691,302,MSN Instant Messenger Protocol - Overview,http://www.hypothetic.org/docs/msn/index.php,I dunnoï¿½ just in case.,04/24/03 12:10 AM,45,-1
+699,303,CG Talk - Digital Visual Effects Professionals - Gallery/Finished Work,http://gallery.cgtalk.com/,A whole bunch of fantastic computer assisted or computer generated art.,04/25/03 12:59 PM,32,-1
+703,304,1 Pixel per meter,http://mirror.wolffelaar.nl/zardalu.sytes.net/,Shows various real buildings and space craft and their relative sizes to sci-fi starships.,04/29/03 09:51 PM,21,-1
+704,305,Databases: Patent Grant and Patent Application Full-Text and Full-Page Images,http://www.uspto.gov/patft/index.html,US Patentsï¿½ searchable online.,05/02/03 03:04 PM,35,-1
+706,306,Kaena : the Prophecyï¿½ the movieï¿½ the game...,http://www.kaena.lycos.fr/,site for full length 3D animated movieï¿½ looks kinda cool.,05/11/03 11:22 AM,30,-1
+707,307,The Lemon: History Of The Internet,http://www.thelemon.net/issues/timeline.php,Tongue in cheek history of the internet.,05/19/03 10:57 AM,50,-1
+711,308,SpybotSD - Spybot - Search &amp; Destroy by PepiMK Software,http://security.kolla.de/,Like Ad-Awareï¿½ but recommended  by Fark Forums.,05/21/03 11:39 AM,34,-1
+714,309,NOAA - National Weather Service,http://www.nws.noaa.gov/,,05/26/03 12:32 PM,32,-1
+722,310,Using Computational Fluid Dynamics,http://www.eng.warwick.ac.uk/staff/cts/cfdbook/,An online version of an out-of-print CFD book for beginners.,05/29/03 06:51 PM,25,-1
+732,311,Warp Drive When?,http://www.grc.nasa.gov/WWW/PAO/warp.htm,Website dealing with this question from a scientific standpointï¿½ written for the layman and sci-fi reader.,06/03/03 11:51 AM,36,-1
+733,312,Pulse Jet Engine,http://aardvark.co.nz/pjet/,A bunch of info related to plusejetsï¿½ and the same guy is building his own cruise missile.,06/03/03 12:25 PM,25,-1
+734,313,Welcome to Av8n.com,http://www.av8n.com/,Gobs more info on aerodynamics and other flying stuff.,06/03/03 02:15 PM,25,-1
+735,314,natasha henstridge - a rare specie - gallery 5,http://www.users.globalnet.co.uk/~mikmira/natasha5.htm,Okï¿½ I have a crush on Natashaï¿½ cuz she's so damn hot.,06/04/03 11:13 AM,21,-1
+736,315,AREEP - Rotary Engine for archive for aircraft,http://home.earthlink.net/~rotaryeng/ACRE.html,,06/04/03 04:16 PM,25,-1
+738,316,1stopKorea - North Korea Trip ,http://www.1stopkorea.com/nk-trip1.htm,An american's trip to the DPRK. The whole place is one big vanity trip for General Kim.,06/05/03 04:49 PM,21,-1
+739,317,Crimsonland,http://arcade.reflexive.com/gameinfo.aspx?AID=9&CID=3980,dirt simple top-down shooterï¿½ but tons of fun. Worth the 6mb download.,06/10/03 01:27 AM,23,-1
+740,318,Star Monkey : Home page.,http://www.smallrockets.com/pc/starmonkey/,Old school top-down twin cobra/raiden kinda gameï¿½ but with spiffy 3D accelerated graphics,06/10/03 01:30 AM,23,-1
+746,319,EAA Chapter 62,http://www.eaa62.org/,Local EAA chapter at reid-hillview,06/30/03 05:26 PM,25,-1
+750,320,41 great dates,http://www.azcentral.com/ent/calendar/articles/0201datingguide.html,,07/01/03 09:32 PM,21,-1
+751,321,BARNSTORMERS.COM,http://www.barnstormers.com/,aviation classified ads,07/04/03 10:08 AM,25,-1
+758,322,FAA webiste -Pilots and Aircraft Owners,http://www2.faa.gov/avr/afs/infoforpilotsowners/,Information and regulations straight from the FAA.,07/15/03 12:33 PM,25,-1
+761,323,Aeris 200 ACEAIR,http://www.aeris.ch/defaultx.asp?catid=4&lang=1,Kinda cool plane I missed seeing at oshkosh,08/05/03 11:19 AM,25,-1
+768,324,Personal Air Vehicle Exploration Links,http://www.asdl.gatech.edu/teams/pave/PAVE_Sensitivity_Tool(Links).htm,Lots of spiffy links of ideas related to PAVE.,08/11/03 05:43 PM,25,-1
+772,326,EA World: EA Home,http://portal.ea.com/home/,Behind the firewall portal for EA employees. ,09/12/03 09:15 AM,23,-1
+774,328,Steven Stahlberg,http://www.optidigit.com/stevens/,Another digital artist that makes some cool stuff. Check out his renders of the nekkid chicks.,09/16/03 01:05 PM,32,-1
+776,329,JavaOne Online,http://javaoneonline.mentorware.net/servlet/mware.servlets.LoginServlet?subsysId=2000,,09/22/03 11:55 AM,41,-1
+784,330,How NOT to Talk!,http://www.vandruff.com/art_converse.html,Conversational Terroism,10/06/03 11:33 AM,21,-1
+786,331,Filmlook for Video,http://www.bealecorner.com/trv900/filmlook.html,Ideas and tips for that 'film' look.,12/09/03 12:08 PM,57,-1
+787,332,Motion Research Corporation,http://www.motionresearch.com/development.htm,Makers of a HUD for motorcyclists.,12/09/03 12:09 PM,49,-1
+788,333,Using Higher Level Video Effects in Premiere 6.5 at InformIT.com,http://www.informit.com/content/articlex.asp?product_id={1887508B-99FE-4E66-8F77-66120ABA6FBC}&element_id={BD91D6CE-C481-43FB-B8BB-C01B8459E68B}&st={4497E07E-1D1F-405A-9D2E-D330BF3271A8}&session_id={BF176B8B-42A3-40D9-B4F0-80228CE83FCC},a HOWTO for premiere effectsÂ© since the manual sucks.,12/09/03 12:10 PM,57,-1
+789,334,Getting that Film Look,http://www.lafcpug.org/feature_video_film.html,Another page for making video look like film,12/09/03 12:11 PM,57,-1
+790,335,Simulating 35mm Motion Picture Clarity in After Effects by Daniel Broadway,http://www.dvinfo.net/articles/filmlook/broadway1.php,Step by step techinique for getting that elusive film look.,12/09/03 12:16 PM,57,-1
+791,336,Matrox RT.X100 Xtreme User forums,http://forum.matrox.com/cgi-bin/rtx100/ultimatebb.cgi,Forum discussing the RTX and how to get the damn thing to work.,12/09/03 12:17 PM,57,-1
+796,337,The Blue Screen / Chroma Key Online Store,http://www.seanet.com/Users/bradford/buy_blue_screen_paint.htm,Supplies for those blue screen SFX shots.,12/11/03 07:19 PM,57,-1
+813,339,Wired News: Flying Saucer May Yet Take Flight,http://www.wired.com/news/technology/0Â©1282Â©61681Â©00.html?tw=wn_story_page_prev2,info on bold new airplane designs,12/20/03 01:53 PM,25,-1
+820,340,CUBADUST 2003 - Jonas Strandberg-Ringh,http://www.cubadust.com/,Check out the &quot;Versus Project&quot; link. Some fantastic art.,12/22/03 03:18 PM,21,-1
+821,341,Nightmare Armor,http://www.nightmarearmor.com/,Makers of Sci-Fi armorÂ© like Master Chief(Halo) and Deep Eyes.(FF),12/29/03 11:56 AM,23,-1
+826,342,Anomalies Unlimited,http://www.anomalies-unlimited.com/,Not *quite* tinfoil hatÂ© but pretty close. Certainly interesting. Check out the photo of the nuke going off.,12/31/03 12:21 PM,32,-1
+829,343,Jim Loy's Pseudoscience Page,http://www.jimloy.com/pseudo/pseudo.htm,Similar to Skepdic.com,01/06/04 09:18 AM,24,-1
+830,344,robots.net - Robot news and Robotics Info,http://robots.net/,,01/06/04 04:01 PM,24,-1
+842,345,ASIMO North American Educational Tour - Say Hello to ASIMO,http://www.asimo.honda.com/index.asp,Asmio bot's webpage,01/13/04 12:19 PM,24,-1
+843,346,Logarithmic Maps of the Universe (J. R. Gott),http://www.astro.princeton.edu/~mjuric/universe/,From earths core to the edge of the known universe.,01/13/04 12:39 PM,24,-1
+846,347,Cyberkinetics,http://www.cyberkineticsinc.com/,Makers of brain-machine control interfaces,01/14/04 11:00 AM,24,-1
+847,348,::: M O O N P O D games :::,http://www.moonpod.com/English/purchase.php,Buy the Starscape game here. Kinda fun shooter. Try the demo.,01/14/04 06:06 PM,23,-1
+848,349,NuclearSpace: Opening the Next Frontier pt. 1,http://www.nuclearspace.com/a_liberty_ship.htm,Gas Core Nuclear Rockets BabyÂ© Yeah!,01/15/04 11:53 AM,44,-1
+866,351,Eschaton,http://www.eschaton-online.com/shots-screen-200401190-6.html,cool looking RTSÂ© where drop-in players take over the AI units.,01/27/04 12:11 PM,23,-1
+877,352,Death Fall,http://www.deathfall.com/index.php,3D graphics tips and tricks,02/09/04 12:50 PM,57,-1
+881,353,The EZ-List Homepage!,http://www.matronics.com/ez-list/index.htm,Long-EZ mailing list homepage,02/17/04 09:25 PM,25,-1
+882,354,World Of Warcraft beta page,https://12.129.233.207/login.aspx,main login for the beta.,02/17/04 10:03 PM,23,-1
+883,355,EZ Squadron,http://www.ez.org/,Long-EZ information,02/18/04 06:09 PM,25,-1
+889,357,Experimental Panel Builder,http://epanelbuilder.com/,build your own panel with this web based template.,03/02/04 01:55 PM,25,-1
+890,358,WinHelp/HTMLHelp Java Documentations,http://www.allimant.org/javadoc/javadoce.html,Java API docs in WinHelp form,03/02/04 04:48 PM,41,-1
+905,361,Sysinternals Freeware - Utilities for Windows NT and Windows 2000 - PMon,http://sysinternals.com/ntw2k/freeware/pmon.shtml,,03/10/04 05:37 PM,45,-1
+910,362,MyEclipse :: Easy and affordable eclipse plugin development tools,http://www.myeclipseide.com/index.php,Easy and affordable eclipse plugin development tools,03/29/04 09:19 AM,40,-1
+914,363,SourceForge: My Personal Page,http://159.182.187.70/my/,,04/14/04 04:05 PM,40,-1
+919,364,Arizona Revised Statutes,http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp,Anti-mariage law,04/20/04 01:24 PM,51,-1
+928,365,The Spamhaus Project,http://www.spamhaus.org/index.lasso,provider of anti-spam databaseÂ© maybe I can hook this up to darkwood.,06/01/04 03:26 PM,34,-1
+935,367,Jet Man,http://www.yves-rossy.com/en/jetman.php,French dude makes folding jet wings right outta GI Joe. COBRA!,09/07/04 11:30 AM,25,-1
+936,368,JDBC Connection pooling for Oracle thin client,http://www.jguru.com/faq/view.jsp?EID=567410,jGuru: Many connections from an Oracle8i pooled connection returns statement closed. I am using import oracle.jdbc.pool.* with thin driver. If I test with many simultaneous connections© I get an SQLException that the statement is closed.,09/07/04 02:22 PM,41,-1
+939,369,Tim's Blog Of Doom,http://www.somewhocallme-tim.net/blojsom/blog/tim/,Wheeee© I've got a blog© hear me roar.,09/15/04 04:39 PM,34,-1
+940,370,Blojsom,http://wiki.blojsom.com/wiki/display/blojsom/About blojsom,sourceforge page for my Blogging software,09/15/04 04:55 PM,34,-1
+942,371,OpenJMS - OpenJMS,http://openjms.sourceforge.net/,,09/20/04 03:30 PM,41,-1
+943,372,Steam Hardware Survey Results,http://www.steampowered.com/status/survey.html,The  current &quot;Curve&quot; for PC hardware© as seen by counterstrike/half-life players.,09/26/04 11:00 AM,40,-1
+944,373,sparks.discreet.com | home,http://sparks.discreet.com/,Official 3DSMAX resource for new goodies.,09/30/04 12:59 PM,35,-1
+946,374,The Strangerhood,http://www.strangerhood.com/,From the makers of Red Vs Blue© comes more machinima made with the Sims 2,09/30/04 01:29 PM,30,-1
+948,375,CGTalk,http://www.cgtalk.com/,Forum full of CG art and discussions.,10/07/04 12:40 PM,35,-1
+950,376,Planetside Certification Calculator,http://www.xennon.co.uk/pscertcalc/pscertcalcblack.html,Handy tool to compute cert point tallies© now with BFRs.,10/14/04 11:22 AM,23,-1
+952,377,ORACLE-BASE ,http://download-west.oracle.com/docs/cd/B10501_01/index.htm,Oracle9i ANSI/ISO SQL Support,10/19/04 02:02 PM,60,-1
+953,378,The page cannot be fucking displayed,http://www.se7en-x.com/oops/,Trash talking 404 page.,10/21/04 11:30 AM,50,-1
+955,379,:::Matthew Mullins:::,http://www.matthewmullins.com/index.html,,10/21/04 03:53 PM,35,-1
+960,380,Future Crew  Planet side Comics,http://www.futurecrewps.com/comics/index.html,Actually© they are well done© relevant© and funny.,10/27/04 12:49 PM,23,-1
+963,381,Karate Techniques and Exercises,http://www.neokarate.net/lingo/,,11/03/04 10:20 AM,49,-1
+967,382,gizmag Emerging Technology Magazine,http://www.gizmo.com.au/home/,Some of the tech is crap that'll never get of the ground© but most is real-world cool stuff.,11/12/04 10:49 AM,24,-1
+976,383,Control Vision,http://www.controlvision.com,Website for Tims PDA flight software,11/26/04 12:40 AM,25,-1
+979,384,Eyetop,http://www.eyetop.net/products/,Cheapest of the Color©  Monocular HMDs.,12/05/04 10:20 PM,52,-1
+984,385,.NET CPU,http://www.dotnetcpu.com/,System on a chip© runs .net CLR. Might be vaporware...,12/14/04 03:55 PM,58,-1
+985,386,gumstix - all things small,http://gumstix.com/index.html,Teeny tiny all-in-one systems for embedded device prototyping.,12/14/04 05:11 PM,52,-1
+986,387,Batteries4Everything.com,https://www.batteries4everything.com/index.html,duh© batteries for everything.,12/16/04 04:00 PM,25,-1
+988,388,Electronics Tutorials© Kits© and Tools for Educators© Hobbyists and Engineers,http://www.iguanalabs.com/,beginner kits in case I want to play around with this stuff.,12/16/04 09:58 PM,58,-1
+990,389,Experimental Aircraft Technology,http://www.extechmag.com/,magazine I might wanna subscribe to.,12/23/04 01:41 PM,25,-1
+991,390,ARMOR GEDDON,http://avengerredsix.blogspot.com/,Tank Platoon Leader's blog. Sees lots of action and writes about it.,12/23/04 05:34 PM,32,-1
+992,391,Roboteq,http://www.roboteq.com/,all in one super duper motor controllers,12/24/04 12:40 PM,58,-1
+998,392,Tim Rowley home Page - Siggraph papers from each year,http://www.cs.brown.edu/~tor/,Mmmmm© siggraph papers.,01/04/05 07:08 PM,52,-1
+1000,393,ELECTRONICS HOBBYIST,http://www.amasci.com/amateur/elehob.html,Lots of links to electronics n' stuff.,01/19/05 11:48 AM,58,-1
+1002,394,WindowsForDevices -- the independent Windows Embedded resource,http://www.windowsfordevices.com/,News for windows CE devices and stuff.,01/19/05 01:49 PM,58,-1
+1003,395,Aurora PDA Family,http://www.dspdesign.com/products/index_html?category_id=51,A single board computer with WinCE.,01/19/05 02:09 PM,58,-1
+1004,396,Online Machine Shop ,http://www.emachineshop.com/,Give 'em a CAD file© they send you the part.,01/25/05 10:21 AM,35,-1
+1005,397,Rotary Engine Technologies Wankel Rotary Engines© Aircraft Engines© Racing Kart Engines,http://www.rotaryengines.ca/,Mentions multi-fuel rotary engines© including Jet-A,02/02/05 12:34 PM,25,-1
+1007,398,Consumer Info,https://qspace.iplace.com/cobrands/734/login_form.asp?sc=2014C092,Credit Report,02/08/05 11:01 AM,38,-1
+1015,399,EggHeadCafe -,http://www.eggheadcafe.com/,Code Samples For The .NET Framework© SQL Server© Mobile Devices© and Web Design,02/24/05 04:21 PM,41,-1
+1016,400,JavaScript Source:,http://javascript.internet.com/,Free JavaScripts© Tutorials© Example Code© Reference© Resources© And Help,02/24/05 04:25 PM,43,-1
+1017,401,Dynamic HTML Tools,http://coolnessdhtml.flatface.net/dhtml/,Javascript Examples,02/24/05 04:30 PM,43,-1
+1018,402,ALLOFMP3. The Best MP3 Downloads. Full Albums. Music© Soundtracks© Singles© Games. AAC©M4A©WMA©MPC©LOSSLESS©FLAC©MP4©OGG.,http://www.allofmp3.com/,What a music service should be. Pay per byte© choose your datarate.,02/25/05 11:27 AM,46,-1
+1023,405,Thottbot: World of Warcraft,http://www.thottbot.com/,,03/03/05 01:53 PM,23,-1
+1027,406,Darwin Awards,http://www.darwinawards.com/darwin/index_darwin2002.html,Survival of the fittest,03/09/05 01:34 PM,32,-1
+1028,407,CUReT Columbia Utrecht Database,http://www1.cs.columbia.edu/CAVE/curet/.index.html,BRDF Database,03/13/05 12:25 PM,40,-1
+1033,408,Nexus: The Jupiter Incident Review for PC at GameSpot,http://www.gamespot.com/pc/strategy/nexus/review-2.html,Is this what privateer would look like today?,03/24/05 10:39 AM,23,-1
+1035,409,James Aircraft Products,http://www.jamesaircraft.com/Our_Products.html,source for wheel pants.,03/25/05 01:20 PM,25,-1
+1036,410,TeamGT Studios Online,http://www.teamgt.com/index2.htm,Cool art for inspiration.,03/25/05 07:09 PM,32,-1
+1037,411,Berkline© LLC,http://www.berkline.com/pages/theaterselection.asp?cat=theater,Home theature chairs,03/29/05 10:33 AM,38,-1
+1039,413,Redchair Software - Notmad explorer,http://www.redchairsoftware.com/notmad/,Notmad Explorer - Groovy software for my nomad mp3 player.,03/30/05 11:57 AM,1,-1
+1041,414,World of Warcraft - Map of Eastern Kingdoms,http://wow.gamepressure.com/world0.asp,Detailed Maps,03/31/05 10:29 PM,23,-1
+1044,415,Bart's Preinstalled Environment (BartPE) bootable live windows CD/DVD,http://www.nu2.nu/pebuilder/,Creates WinXP boot CD that get you back on your fuxored system.,04/07/05 03:29 PM,1,-1
+1048,416,Borland Developer Network Welcome to the Coad Letter,http://bdn.borland.com/coadletter/,,04/12/05 03:09 PM,40,-1
+1049,417,Allstate - Official Site - Car insurance© home and business insurance© online insurance quotes© and financial services from Allstate,http://allstate.com/,,04/17/05 01:49 PM,38,-1
+1051,418,Gizmodo,http://www.gizmodo.com/,All sorts of gadgety goodness in blog form© updated insanely often.,04/23/05 12:40 PM,58,-1
+1052,419,The TA Spring Project,http://taspring.clan-sy.com/,Total Annihilation re-done with modern 3D tech.,04/27/05 12:16 PM,23,-1
+1055,421,Guild Wars Review for PC at GameSpot,http://www.gamespot.com/pc/rpg/guildwars/review.html?q=1&tag=gs_pc_flashtop_story,Looks cool© no monthly fee. Do we dare risk it?,05/06/05 10:35 AM,23,-1
+1059,422,Sucessnet+ usecases,http://dev.phsuccessnet.com/snetdocs/SNPDemoPages/i.3_UCs/,,05/10/05 11:44 AM,59,-1
+1062,423,Webex.com,https://pearsonlc.webex.com/,,05/12/05 11:26 AM,59,-1
+1064,424,SuccessNet Plus - XHTML Design Templates,http://dev.phschool.com/snplus_design/i2/templates/,,05/13/05 01:04 PM,59,-1
+1065,425,Oracle PL/SQL Programming,http://www.oracleplsqlprogramming.com/,,05/23/05 11:33 AM,60,-1
+1072,426,Raser Technologies,http://www.rasertech.com/index.html,400-500 bhp electric motor in 67kg package.,05/30/05 02:00 PM,24,-1
+1073,427,Element - Home fertility testing for males.,http://www.priadiagnostics.com/element/element.html,Just to make sure the hoses are really disconnected.,05/31/05 07:14 PM,24,-1
+1076,428,Concert,http://10.40.42.50:7003/authoring/login/login.jsp,Devrats test machine,06/03/05 01:05 PM,59,-1
+1080,429,SNP INT Login,http://www.snpint.inf.ncs.com/,Jsps I'm working on,06/10/05 01:13 PM,59,-1
+1085,430,Sucessnet+ usecases by Chetna,http://dev.phsuccessnet.com/snetdocs/SNPDemoPages/,,06/16/05 04:44 PM,59,-1
+1087,431,Harmeets SNP pages,http://phtesting.ebusinessdesign.com/concurrentwork/Mockups/SNP_It2/start.html,,06/21/05 04:42 PM,59,-1
+1088,432,Official kX Project Site -- News,http://kxproject.lugosoft.com/index.php?skip=1,&quot;Third Party&quot; sound blaster live drivers© since creative stopped updating.,06/28/05 12:43 PM,28,-1
+1089,433,Google Earth - Home,http://earth.google.com/,Lets you look at the earth and zoom into 3D views using radar/satellite imagery. ,07/01/05 05:03 PM,24,-1
+1090,434,Prentice Hall Login,http://ph.snpint.inf.ncs.com/authoring/login/login.jsp,,07/14/05 11:09 AM,59,-1
+1091,435,PLANET ANNIHILATION | TA | Key Commands,http://www.planetannihilation.com/intelligence/ta/commands.shtml,,07/17/05 04:41 PM,23,-1
+1092,436,Official site of the IKOO transporter,http://www.ikoo.us/,Pricey little compact scooter© but it's electric and runs for 18miles at 18mph,08/05/05 02:30 PM,38,-1
+1095,437,The Sneeze - Half zine. Half blog. Half not good with fractions.,http://www.thesneeze.com/,Check out &quot;No steve don't eat it&quot; link on the right.,08/17/05 06:33 PM,50,-1
+1096,438,This Spartan Life,http://www.thisspartanlife.com/,Talk show done with Halo 2.,08/19/05 11:35 AM,32,-1
+1097,439,Google Earth Hacks - Lots of downloads© information and hacks for Google Earth.,http://www.googleearthhacks.com/,not strictly 'hacks'© more like a set of utilities and cool data.,08/20/05 12:40 PM,32,-1
+1099,440,Supreme Commander | Gas Powered Games,http://supcom.gaspowered.com/,Official Website for the game© so you can stop asking me about it.,08/21/05 05:13 PM,23,-1
+1101,441,Wired 13.09: The Dream Factory,http://www.wired.com/wired/archive/13.09/fablab.html?tw=wn_tophead_5,desktop fabrication,08/31/05 07:47 PM,24,-1
+1102,442,Google Earth Touring,http://brainoff.com/gmaps/tour.php,Allows 'tour guide' to lead followers in G.E.,09/02/05 09:47 PM,21,-1
+1104,443,IE 6.0 - QuirksMode - for all your browser quirks,http://www.quirksmode.org/,,09/12/05 09:31 PM,40,-1
+1106,444,Acetone In Fuel Said to Increase Mileage,http://pesn.com/2005/03/17/6900069_Acetone/,MIght be BS© but I'm no chemist.,09/19/05 02:12 PM,31,-1
+1113,445,Sysinternals Freeware,http://sysinternals.com/,,09/25/05 02:24 PM,1,-1
+1115,446,PANICS · ,http://panics.roosterteeth.com/archive/episode.php?id=161,New from the rooster teeth guys.,09/29/05 11:24 AM,30,-1
+1116,447,Knights Of The Dinner Table!,http://www.hoodyhoo.com/kodt.htm,Flash plays from the Knights of the Dinner table stories.,10/04/05 01:42 PM,29,-1
+1117,448,Shock and Awe: Videos and Photos of Army Special Ops© Navy SEALs© Air Force© Marines© Coast Guard in Action,http://img.military.com/Shock/home.do;jsessionid=FD0A2E743B53C95F8CFA008CED7B2B3A?page=1,After a quick signup© watch various clip of combat© explosions© etc.,10/04/05 07:00 PM,30,-1
+1118,449,Xerces XML Parser in C++,http://xml.apache.org/xerces-c/,MS C# DOM 'like' interface to XML parser.,10/12/05 09:12 PM,53,-1
+1119,450,TinyXml Main Page,http://www.grinninglizard.com/tinyxml/,Simple© but robust XML Parser in C++,10/12/05 09:13 PM,53,-1
+1121,451,pdaPhoneHome.com - PPC-6700,http://www.pdaphonehome.com/forums/forumdisplay.php?s=3299369d84c95c073bcb609c0fabf88a&forumid=174,PPC-6700 forum,10/17/05 12:57 AM,58,-1
+1122,452,Find New &amp; Used Items on eBay Auction© Using Our eBay Auction Search..,http://misspelledauctions.com/,Type in something like 'playstation' and find listings with platstation or plastation.,10/17/05 10:41 AM,38,-1
+1123,453,The Unofficial GuildWars Site,http://www.gwonline.net/index.php,,10/22/05 11:06 AM,23,-1
+1124,454,Gizmodo© The Gadget Blog,http://www.gizmodo.com/,Cool site about gadgets and stuff,10/22/05 10:52 PM,38,-1
+1125,455,Guild Wars Wiki,http://www.guildwiki.org/wiki/Main_Page,Wiki For Guild Wars© chock full of searchable info.,10/22/05 11:04 PM,23,-1
+1126,456,My Solidus - Solar Energy panels ,http://mysoldius.com/home.shtml,About 6 volts and 250 mA of power to recharge your PDA or cellphone.,10/27/05 12:25 PM,58,-1
+1128,457,Microsoft ASP.NET QuickStart Tutorial,http://www.dotnetjunkies.com/quickstart/aspplus/,Intro to ASP.NET; .net  web coding.,10/31/05 05:46 PM,40,-1
+1129,458,Open Erollment,https://usemployees.pearson.com/employeeverification/AccessDeniedIP.htm,,11/04/05 02:11 PM,40,-1
+1130,459,Lulu.com - Self Publishing - Free,http://www.lulu.com/,Make your own book or dvd© and get it published in small batches affordably.,11/08/05 04:23 PM,38,-1
+1131,460,The Core Pocket Media Player ,http://tcpmp.corecodec.org/about,Seems to be a better media player than wm10 on the pocketpc.,11/09/05 03:25 PM,1,-1
+1132,461,Struts Internationalization (i18n),http://www.allapplabs.com/struts/struts_internationalization.htm,,11/11/05 11:37 AM,41,-1
+1134,462,Bay Area Orienteering Club,http://baoc.org/wiki/Welcome,Using maps and compass© solve puzzles and clues to complete a hike.,11/18/05 01:42 PM,21,-1
+1135,463,The Rallye Club,http://www.therallyeclub.org/index.html,Run courses in your car deciphering clues.,11/20/05 02:13 PM,21,-1
+1138,464,Kerberos Productions - makers of Sword of the Stars,http://www.kerberos-productions.com/sots.shtml,4X Space game© that might actually be cool.,12/02/05 02:39 PM,23,-1
+1149,465,Core JavaScript 1.5 Reference - MDC,http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference,I wish they would just catch up.,12/15/05 12:13 PM,43,-1
+1154,467,TwonkyVision,http://www.twonkyvision.de/index.html,UPnP server for all platforms© can stream music and pictures to my Xbox 360,12/22/05 12:38 PM,21,-1
+1156,468,Yoga postures,http://www.santosha.com/asanas/vriksha.html,Pending for a bending,12/23/05 08:53 AM,51,-1
+1159,469,Hero Machine,http://www.marvelvc.com.br/Hero/,Make your own super hero,12/27/05 02:25 PM,21,-1
+1162,470,Elliott Back » How to rip a DVD: A Tutorial,http://elliottback.com/wp/archives/2005/12/26/how-to-rip-a-dvd-a-tutorial/,,12/28/05 09:39 AM,40,-1
+1164,471,Patrick's Aviation Website: Aviation Videos | Airplane Videos | Air Shows | Aviation News,http://www.patricksaviation.com/,Tons of video here© jets flying around blowing shit up or doing what they do.,12/28/05 02:04 PM,25,-1
+1165,472,Dynamic HTML Central - ,http://www.dhtmlcentral.com/,The ultimate place to find DHTML scripts© demos© tutorials and help.,01/03/06 09:34 AM,43,-1
+1166,473,Lunar Command,http://ebaumsworld.com/games/lunarcommand.html,Missle command flash,01/03/06 08:16 PM,23,-1
+1167,474,MagWerk,http://www.magwerk.com/,Flash based magazines© cool or not© I can't tell© take forever to load.,01/04/06 02:21 PM,32,-1
+1171,475,Mini XM,http://www.minixm.com/DS/,Connect to the new XM Radio internet streams on my PDA.,01/11/06 01:56 PM,46,-1
+1173,476,OnCourse SiRF Star III Bluetooth GPS Receiver with WAAS enabled,http://www.buygpsnow.com/item.aspx?itemid=474,Cheap Bluetooth GPS. (for your PDA),01/18/06 12:09 PM,38,-1
+1175,477,Konarka builds power plastic :: Konarka Technologies,http://www.konarka.com/,Company makes plastics that produce power from light.,01/27/06 03:58 PM,24,-1
+1176,478,National Flight Database,http://www.naco.faa.gov/index.asp?xml=naco/catalog/charts/digital/nfd,digital database of airports© airways© and so forth.,02/09/06 11:45 AM,25,-1
+1177,479,Welcome to Digital WorldWide© Inc.,http://www.digitalww.com/index.htm,leads on cheap LCDs and components for my gadgets.,02/14/06 04:24 PM,38,-1
+1179,480,XP Embedded blogs by Magesh,http://embedxp.blogspot.com/,Ton of useful SLDs for XPe.,02/15/06 01:16 PM,40,-1
+1181,481,Phidgets Inc. :: Unique and Easy to Use USB Interfaces,http://phidgets.com/index.php,Sweet little boards with all sorts of goodies on 'em.,02/15/06 02:15 PM,58,-1
+1182,482,Embedded PCs - PC104© 3.5,http://www.dsl-ltd.co.uk/index.htm,maker of tiny SBCs.,02/24/06 12:46 PM,58,-1
+1195,483,Modern Firearms - Assault Rifles - HK G11,http://world.guns.ru/assault/as42-e.htm,Dream gun of our youth© Doesn't fire 'square' bullets at all.,03/31/06 10:58 AM,24,-1
+1197,484,Pearson Benchmark web stats,http://chmpgappwstats.ncsp.peroot.com/bmstats.php,,04/12/06 10:40 AM,59,-1
+1204,485,SiN Episodes,http://www.sinepisodes.com/index.php?news,SiN returns. I remember you liking the original.,04/27/06 11:30 AM,23,-1
+1206,486,Weblogic Download,http://scm.mesa.ncs.com/Downloads/Weblogic/net_platform814_win32.exe,,05/03/06 01:41 PM,59,-1
+1207,487,.Text: Workspace Home,http://www.gotdotnet.com/workspaces/workspace.aspx?id=e99fccb3-1a8c-42b5-90ee-348f6b77c407,asp.net based blogging software. ,05/05/06 03:42 PM,1,-1
+1217,488,Cybermind Nederland,http://www.cybermindnl.com/index.php?page=shop.product_details&flypage=shop.flypage&product_id=50&category_id=ced1bd070c3193f0349579a021e83da7&option=com_phpshop&Itemid=1,See through HMD© coming soon.,06/07/06 04:52 PM,58,-1
+1221,489,Pearson SuccessNET Configuration Management Home Page,http://psncm.inf.ncs.com/psncm/,New Builds Page,06/15/06 05:10 PM,59,-1
+1222,490,The Plastic Loose Fill Council,http://www.loosefillpackaging.com/,I have a ton of packing peanuts© this website tells you where to get rid of it.,06/21/06 03:44 PM,38,-1
+1223,491,Hot wire foam cutting cnc machines,http://www.foamlinx.com/,Supplier of CNC foam cutters and foam supply links,06/21/06 04:15 PM,25,-1
+1234,492,Midway - Play Classic Games - Sinistar,http://www.midway.com/classicGames/classicGamePlayer.php?game=sinistar,Uh© not really as fun as I remember.  Grab your joystick and turn down your screen rez.,07/15/06 03:08 AM,23,-1
+1240,493,Sprint PPC-6700 wiki from HTC,http://htcwiki.wetpaint.com/page/-+Sprint+PPC-6700,HTC set up a wiki for their products.,07/25/06 04:07 PM,33,-1
+1242,494,workFRIENDLY - BETA,http://www.workfriendly.net/,Proxy converts a webpage into a view that looks like a MS Word Doc© to hide those naughty images.,08/04/06 12:51 PM,34,-1
+1246,495,Cthulhu Nation MMORPG in the World of Lovecraftian Mythos,http://www.cthulhunation.co.uk/,Web based call of cthulhu,08/28/06 03:17 PM,23,-1
+1247,496,List Of Mime Types,http://www.iana.org/assignments/media-types/application/,,08/31/06 12:00 PM,40,-1
+1249,497,Coupon Codes,http://track.phsuccessnet.com/reports/snp/productcoupons.html,,09/07/06 10:21 AM,59,-1
+1251,498,Classic Arcade Game Locations,http://arcadelocations.classicgaming.gamespy.com/,Find out where those old arcade games are.,09/18/06 11:12 AM,23,-1
+1254,499,Stop Junk Mail Now with greendimes,http://www.greendimes.com/index.html,For-Profit eco-business will plant a tree each month© and take you off mailing lists for $3 a month.,09/26/06 04:14 PM,32,-1
+1264,500,NERF N-STRIKE LONGSHOT CS-6 - Nerf Sniper Rifle,http://www.hasbro.com/pl/page.viewproduct/product_id.17889/dn/nerf/default.cfm,Skylar would sell his soul for one of these I'll bet.,10/18/06 10:47 AM,21,-1
+1270,501,LiveLeak.com - Daisy chain IED against Abrams tank,http://www.liveleak.com/view?i=fadc431531,M1A1 gets hit by multiple IEDs© keeps going© the &quot;Allah Ackbars&quot; in the background get more panicked.,11/25/06 03:10 PM,32,-1
+1271,502,Dev webman,http://10.40.62.18/webman/?cmd=Login,,12/12/06 02:46 PM,59,-1
+1276,503,Dashboard Themes - The only source for previewing Xbox 360 dashboard themes,http://www.dashboardthemes.com/,Finally© a place to preview themes.,01/01/07 11:35 PM,23,-1
+1279,504,Get rid of evil IE image flicker,http://evil.che.lu/2006/9/25/no-more-ie6-background-flicker,,01/03/07 01:59 PM,43,-1
+1281,505,Zipcode info,http://www.zipinfo.com/products/z5/z5.htm,,01/12/07 09:35 AM,59,-1
+1282,506,My Eclipse JSP developer,http://www.myeclipseide.com,b_speiser/12345678,01/16/07 09:37 AM,42,-1
+1286,507,Just One Club Card ,http://www.justoneclubcard.com/,Combine All Of Your Club Cards,02/07/07 10:17 AM,38,-1
+1287,508,DWR,http://getahead.ltd.uk/dwr,Easy AJAX for JAVA,02/14/07 02:00 PM,43,-1
+1288,509,jQuery,http://jquery.com/,The Write Less© Do More© JavaScript Library,02/14/07 02:00 PM,43,-1
+1289,510,Interface elements for jQuery ,http://interface.eyecon.ro/demos,Real examples of Interface elements,02/14/07 02:01 PM,43,-1
+1290,511,Motherrussia!,http://motherrussia.polyester.se/jquery-plugins/tablesorter/,TableSorter plug-in for jQuery,02/14/07 02:02 PM,43,-1
+1291,512,bassistance.de ,http://bassistance.de/jquery-plugins/jquery-plugin-accordion/,jQuery plugin: Accordion,02/14/07 02:02 PM,43,-1
+1302,513,Spanish and Basic Latin Symbols,http://www.cuyamaca.edu/fgeoola/symbols.asp,ascii codes for special characters,05/02/07 09:30 AM,40,-1
+1304,514,Desktop Factory: 3D Printers,http://www.desktopfactory.com/,Supposedly© a 3D printer for $5000© if it ever ships.,05/08/07 11:14 AM,24,-1
+1305,515,Evil Mad Scientist Laboratories - Solid freeform fabrication: DIY© on the cheap© and made of pure sugar,http://www.evilmadscientist.com/article.php/candyfab,DIY 3D printing© from sugar.,05/10/07 02:40 PM,58,-1
+1306,516,i-Base,http://documentation.informationbuilders.com/home.asp,Technical Documentation Library - Covering all Information Builders and iWay Software products.,05/10/07 03:18 PM,40,-1
+1307,517,SCM Info,http://mesaplone.inf.ncs.com/SCM,,05/14/07 09:26 AM,59,-1
+1308,518,Personal CNC Machines© CNC Tools and CNC Accessories - Tormach LLC,http://www.tormach.com/,Powerful CNC mill for only $6800,05/23/07 04:51 PM,54,-1
+1311,519,Apache Ant User Manual,http://ant.apache.org/manual/index.html,,06/05/07 04:05 PM,40,-1
+1327,520,Oracle Applications Home Page,http://erp.ic.ncs.com:8002/OA_HTML/OA.jsp?OAFunc=OAHOMEPAGE,Biggest POS Timecard system immaginable!,07/30/07 02:23 PM,59,-1
+1332,521,Supreme Commander Units Database,http://supcom.hacked.in/unit_list/r3260,supcom unit stats for version 3260.,08/24/07 01:10 PM,23,-1
+1333,522,Supreme Commander Wiki ,http://supcom.wikia.com/wiki/Main_Page,Wiki for supcom,08/24/07 01:15 PM,23,-1
+1336,523,Vmware Environments for Developers,http://psncm.inf.ncs.com/psncm/deployment/PSN-Dev-Environments.htm,,09/10/07 08:04 AM,59,-1
+1337,524,Java 1.4 ee API,http://java.sun.com/j2ee/1.4/docs/api/index.html,,09/10/07 10:58 AM,41,-1
+1338,525,Vibram FiveFingers:,http://www.vibramfivefingers.com/products/index.cfm,go barefeet without the skin damage,09/17/07 10:59 AM,38,-1
